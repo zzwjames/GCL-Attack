@@ -14,3 +14,6 @@ pip install PyGCL
 ```
 
 # Run
+```python
+cd examples/
+python GraphCL.py 
