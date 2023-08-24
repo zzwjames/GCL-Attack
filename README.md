@@ -9,4 +9,5 @@ Scikit-learn 0.24+
 Numpy
 tqdm
 NetworkX
+```python
 pip install PyGCL
