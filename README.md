@@ -11,3 +11,6 @@ tqdm
 NetworkX
 ```python
 pip install PyGCL
+```
+
+# Run
